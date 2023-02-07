@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Increment from "./components/Increment";
 import Decrement from "./components/Decrement";
